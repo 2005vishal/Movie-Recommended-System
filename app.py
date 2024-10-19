@@ -90,6 +90,12 @@ else:
     st.title("About")
     st.markdown(
         """
+        Vishal Patwa
+        """
+    )
+
+    st.markdown(
+        """
         This is a simple movie recommender system that helps you find movies similar to your favorites!
         It uses a precomputed similarity matrix to suggest films based on the movie you select.
         """
