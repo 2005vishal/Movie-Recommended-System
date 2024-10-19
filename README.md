@@ -1,7 +1,7 @@
 # 🎬 Movie Recommender System
 now click the link go to website
 https://2005vishal-movie-recommended-system-app-vpzyhk.streamlit.app/
-Overview
+- Overview
 The Movie Recommender System is a machine learning project that provides personalized movie recommendations based on a similarity matrix. The project utilizes precomputed similarity scores between movies and allows users to input their favorite movies, returning a list of movies that are similar. It is built using Streamlit for the front-end interface and NumPy/Pandas for data processing.
 
 This project demonstrates how content-based recommendation systems work by utilizing vector similarity techniques.
